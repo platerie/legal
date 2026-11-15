@@ -2,48 +2,48 @@
 
 # Terms of Use
 
-*Effective October 8, 2026*
+*Effective November 10, 2026*
 
-Mise is an app for sharing recipes and cooking them, run by the Mise team ("we", "us"). These terms are the agreement between you and us for using it. By creating an account or using Mise, you agree to them, including the community rules. If you don't agree, don't use Mise.
+Platerie is an app for sharing recipes and cooking them, run by the Platerie team ("we", "us"). These terms are the agreement between you and us for using it. By creating an account or using Platerie, you agree to them, including the community rules. If you don't agree, don't use Platerie.
 
 Please read them: they say what you can post, what happens if you break the rules, and how our liability is limited. Nothing in them takes away rights you have by law that a contract can't take away. The Privacy Policy explains how we handle your personal data.
 
-## 1. Who can use Mise
+## 1. Who can use Platerie
 
-You must be at least 13 years old, or older if the law where you live sets a higher minimum age for using services like Mise.
+You must be at least 13 years old, or older if the law where you live sets a higher minimum age for using services like Platerie.
 
-If you're under the age of adulthood where you live (18 in most places), you need a parent's or guardian's permission to use Mise, and they must agree to these terms for you.
+If you're under the age of adulthood where you live (18 in most places), you need a parent's or guardian's permission to use Platerie, and they must agree to these terms for you.
 
-You can't use Mise if we've terminated an account of yours before (unless we've told you that you can come back), or if the law doesn't allow you to, for example because of sanctions.
+You can't use Platerie if we've terminated an account of yours before (unless we've told you that you can come back), or if the law doesn't allow you to, for example because of sanctions.
 
-Mise is for personal use. You're welcome to share your own recipes if you cook for a living, but don't use Mise to advertise or sell anything without our permission.
+Platerie is for personal use. You're welcome to share your own recipes if you cook for a living, but don't use Platerie to advertise or sell anything without our permission.
 
 ## 2. Your account
 
-- Give accurate details when you sign up, and keep your password to yourself. You're responsible for what's done with your account, unless someone gets into it through no fault of yours.
+- Give accurate details when you sign up, and keep your password, or the Apple or Google account you sign in with, to yourself. You're responsible for what's done with your account, unless someone gets into it through no fault of yours.
 - An account is for one person. Don't share it, and don't sell or transfer it or its handle.
-- Your handle can't be changed after sign-up. Don't pick one that pretends to be someone else, a business or a brand, or that breaks the community rules. Handles that look like they speak for Mise, such as "admin" or "support", aren't available.
+- Your handle can't be changed once you've chosen it. Don't pick one that pretends to be someone else, a business or a brand, or that breaks the community rules. Handles that look like they speak for Platerie, such as "admin" or "support", aren't available.
 - We send codes and messages about your account and these terms to your account's email address, so keep it up to date. You can change it in Settings on your profile.
 - Tell us at [support@example.com](mailto:support@example.com) straight away if you think someone else is using your account.
 - You can delete your account at any time in the app, from Settings on your profile.
 
 ## 3. Your content
 
-You own what you post: your recipes, photos, videos, comments and profile ("your content"). We don't claim ownership of it.
+You own what you post: your recipes, stories, photos, videos, comments and profile ("your content"). We don't claim ownership of it.
 
-So that we can run Mise, you give us a worldwide, non-exclusive, royalty-free licence to host, store, copy, adapt (for example, resize or reformat), publish, display and perform (for example, play your videos) your content, and to make it available to other people, in and through Mise, as these terms describe. We can pass these rights on only to service providers that help us run Mise, such as our hosting provider, and only for that. We won't sell your content or use it in advertising.
+So that we can run Platerie, you give us a worldwide, non-exclusive, royalty-free licence to host, store, copy, adapt (for example, resize or reformat), publish, display and perform (for example, play your videos) your content, and to make it available to other people, in and through Platerie, as these terms describe. We can pass these rights on only to service providers that help us run Platerie, such as our hosting provider, and only for that. We won't sell your content or use it in advertising.
 
-You also let other people use your content through Mise's features: view it, save it, cook from it, and share it with the Share button, which sends a recipe's text to other apps.
+You also let other people use your content through Platerie's features: view it, save it, cook from it, and share it with the Share button, which sends a recipe's text to other apps.
 
-The licence ends when you delete the content or your account. After that, we keep copies only in our storage provider's cache, for up to an hour; in backups, for up to 30 days; in photos or videos that couldn't be removed straight away, until we clear them out; in reports about the content, or about comments on it; in ingredients other people have added from it to their own pantry or shopping list; and where the law requires it or we need them for a legal claim. The Privacy Policy gives more detail about these copies. We can't remove copies other people have already made, for example by sharing a recipe.
+The licence ends when you delete the content or your account, or when a story is deleted after two days. After that, we keep copies only in our storage provider's cache, for up to an hour; in backups, for up to 30 days; in photos or videos that couldn't be removed straight away, until we clear them out; in reports about the content, or about comments on it (and a reported story's photo or video, while the report is open); in ingredients other people have added from it to their own pantry or grocery list; and where the law requires it or we need them for a legal claim. The Privacy Policy gives more detail about these copies. We can't remove copies other people have already made, for example by sharing a recipe.
 
 Only post what you have the right to share. If a recipe comes from a cookbook, a website or another cook, credit them (there's a Source field for this), and don't copy their words, photos or videos without permission. A plain list of ingredients usually isn't protected by copyright, but the way a recipe is written, and its photos and videos, usually are.
 
-You're responsible for your content. Apart from the automatic checks described in "Moderation", we don't review it before it appears, but we act on content that breaks these terms. You can delete your own recipes and comments, and comments other people leave on your recipes, at any time.
+You're responsible for your content. Apart from the automatic checks described in "Moderation", we don't review it before it appears, but we act on content that breaks these terms. You can delete your own recipes and comments, and comments other people leave on your recipes, at any time, and your stories in their first 24 hours.
 
 ## 4. Community rules: zero tolerance
 
-Mise has zero tolerance for objectionable content and for abusive users. Don't post, comment, upload or put in your profile anything that:
+Platerie has zero tolerance for objectionable content and for abusive users. Don't post, comment, upload or put in your profile anything that:
 
 - breaks the law, or encourages or helps anyone else to break it
 - harasses, bullies, threatens, intimidates or stalks anyone, or wishes harm on them
@@ -53,16 +53,16 @@ Mise has zero tolerance for objectionable content and for abusive users. Don't p
 - shows or encourages violence, terrorism or violent extremism, self-harm, suicide or eating disorders, or cruelty to animals, or is gratuitously graphic (preparing meat and fish in the usual ways is fine)
 - encourages using illegal drugs, cannabis, tobacco or vapes, or drinking too much alcohol, or promotes the sale of drugs, cannabis, weapons or other regulated goods (recipes that use alcohol are fine)
 - is dangerous food or health advice, such as a recipe or tip meant to make people ill, or a claim that a food can cure, treat or prevent a disease
-- is spam, a scam, misleading, or advertising we haven't agreed to, or impersonates someone or pretends to speak for Mise
+- is spam, a scam, misleading, or advertising we haven't agreed to, or impersonates someone or pretends to speak for Platerie
 - shares someone's private information, such as their address, phone number or private photos, without their permission
 - infringes someone else's copyright, trademark, privacy or other rights
 - contains malware, or links meant to trick people or harm their devices
 
-Don't abuse Mise or the people on it, either:
+Don't abuse Platerie or the people on it, either:
 
 - don't make accounts to get around a block, a suspension or a ban, or use several accounts to mislead people
-- don't use bots, scripts or other automated means to post, follow, like, comment or collect data from Mise
-- don't try to get into other people's accounts or our systems, test our security without our permission, or get around Mise's limits, filters or blocks (if you find a security problem, please tell us at [support@example.com](mailto:support@example.com))
+- don't use bots, scripts or other automated means to post, follow, like, comment or collect data from Platerie
+- don't try to get into other people's accounts or our systems, test our security without our permission, or get around Platerie's limits, filters or blocks (if you find a security problem, please tell us at [support@example.com](mailto:support@example.com))
 - don't overload or disrupt the service
 - don't make false or abusive reports
 
@@ -76,21 +76,21 @@ Child safety: we don't tolerate anything that sexually exploits or endangers chi
 
 ## 5. Reporting and blocking
 
-If you see something that breaks these rules, report it: recipes, comments and profiles each have a Report option in their menu, where you choose a reason and can add details. You can also email [support@example.com](mailto:support@example.com), including if you don't have an account.
+If you see something that breaks these rules, report it: recipes, comments, stories and profiles each have a Report option in their menu, where you choose a reason and can add details. You can also email [support@example.com](mailto:support@example.com), including if you don't have an account.
 
 We don't tell anyone who reported them, and that includes reports made in the app for intellectual property. The only exceptions are copyright notices and counter-notices sent to us by email, which we pass on as "Copyright complaints" describes, and when the law requires us to share a report.
 
-If you email us about something you think is illegal, tell us where it is (the recipe's title and the poster's handle, or the commenter's handle and what the comment says), why you think it's illegal, and your name and email address (you can leave those out if it's child sexual abuse material), and confirm that your report is accurate and complete as far as you know. We'll confirm we've received it, and tell you what we decided.
+If you email us about something you think is illegal, tell us where it is (the recipe's title and the poster's handle, the commenter's handle and what the comment says, or the handle of whoever posted the story and when), why you think it's illegal, and your name and email address (you can leave those out if it's child sexual abuse material), and confirm that your report is accurate and complete as far as you know. We'll confirm we've received it, and tell you what we decided.
 
-You can block anyone from the same menus. Blocking works both ways: neither of you sees the other's recipes or comments, and neither can follow the other or like, comment on or mark as cooked the other's recipes. Follows and follow requests between you end, and the comments, likes and cooked marks either of you left on the other's recipes are deleted. Unblocking doesn't bring them back. You can still see each other's profiles. The other person isn't told.
+You can block anyone from the same menus. Blocking works both ways: neither of you sees the other's recipes, stories or comments, and neither can follow the other or like, comment on or mark as made the other's recipes. Follows and follow requests between you end, the comments, likes and "Made it" marks either of you left on the other's recipes are deleted, and stories either of you posted lose their links to the other's recipes. Unblocking doesn't bring them back. You can still see each other's profiles. The other person isn't told.
 
-You can unblock people in Settings on your profile, under Blocked accounts. Blocking only works within Mise: someone could still see your public content from another account.
+You can unblock people in Settings on your profile, under Blocked accounts. Blocking only works within Platerie: someone could still see your public content from another account.
 
 If someone is in immediate danger, contact the emergency services first.
 
 ## 6. Moderation
 
-Some checks are automatic. When you save a handle, name, bio, recipe or comment, it's checked against a list of blocked words and length limits, and handles against the handle rules. If it doesn't pass, it isn't saved, and you can change it and try again. These checks don't affect your account.
+Some checks are automatic. When you save a handle, name, bio, recipe, comment or story caption, it's checked against a list of blocked words and length limits, and handles against the handle rules. If it doesn't pass, it isn't saved, and you can change it and try again. These checks don't affect your account.
 
 We aim to review every report within 24 hours, and a person looks at each one. When we decide that content breaks these terms, we remove it, or, if it's something you can fix, we may ask you to fix it instead. We terminate the account of anyone who posts objectionable content or abuses other people (see "Community rules"). We may also stop them from signing up again, and report them to the authorities when the law requires it or someone's safety is at risk.
 
@@ -102,22 +102,23 @@ If you think we've made a mistake, email [support@example.com](mailto:support@ex
 
 ## 7. Recipes are for information
 
-Recipes on Mise are posted by its users, and they're for general information. We don't test or check them, and we can't promise that any recipe is accurate, complete, safe or right for you.
+Recipes on Platerie are posted by its users, and they're for general information. We don't test or check them, and we can't promise that any recipe is accurate, complete, safe or right for you.
 
 - Check every ingredient for allergens and anything you can't eat. A recipe's ingredient list may not mention everything in it, such as what's in a sauce or a stock, and products vary by brand and country. If you cook for other people, tell them what's in the food.
 - Handle and store food safely, and cook meat, poultry, fish and eggs until they're safe to eat, whatever a recipe's times and temperatures say.
 - Take extra care with canning, fermenting, curing, smoking and foraging. Follow tested guidance from a trusted source: mistakes can make people seriously ill.
 - Recipes with alcohol are for adults of legal drinking age where you live.
-- Nothing in Mise is medical, nutritional or dietary advice. If you have an allergy or a health condition, or you're pregnant, follow your doctor's advice.
+- Nothing in Platerie is medical, nutritional or dietary advice. If you have an allergy or a health condition, or you're pregnant, follow your doctor's advice.
 - Kitchens have hot surfaces and sharp tools. Timers, read-aloud and the pantry are there to help, but they can get things wrong, so keep an eye on your cooking.
+- The pantry's use-by suggestions are rough guides: go by the package. Smell won't tell you if food is unsafe, so when in doubt, throw it out.
 
 ## 8. Copyright complaints
 
-If you think something on Mise infringes your copyright, email our copyright agent at [support@example.com](mailto:support@example.com) with "Copyright notice" in the subject, and include:
+If you think something on Platerie infringes your copyright, email our copyright agent at [support@example.com](mailto:support@example.com) with "Copyright notice" in the subject, and include:
 
 - your name, postal address, phone number and email address
 - the work you say is infringed, for example the cookbook and page, or a link to your photo
-- where it is on Mise: the recipe's title and the handle of the person who posted it, or a link to the photo or video
+- where it is on Platerie: the recipe's title and the handle of the person who posted it, the handle of whoever posted the story and when, or a link to the photo or video
 - a statement that you believe in good faith that the use isn't authorised by you, your agent or the law
 - a statement that the information in your notice is accurate and, under penalty of perjury, that you're the copyright owner or authorised to act for them
 - your physical or electronic signature (typing your full name works)
@@ -138,37 +139,37 @@ Don't misuse this process. Under US law (17 U.S.C. 512(f)), anyone who knowingly
 
 We terminate, in appropriate circumstances, the accounts of people who repeatedly infringe copyright. For trademark or other intellectual property complaints, email us with the same kind of details and we'll look into it.
 
-## 9. Mise itself
+## 9. Platerie itself
 
-Mise is free. If we ever offer something you pay for, we'll tell you the price first and ask you to agree to it.
+Platerie is free. If we ever offer something you pay for, we'll tell you the price first and ask you to agree to it.
 
-The Mise app, its name, logo and design belong to us or to the people we license them from. We give you a personal, non-exclusive, non-transferable permission to use the app under these terms. Don't copy, change, sell or redistribute it, or try to extract its source code, except as the law allows.
+The Platerie app, its name, logo and design belong to us or to the people we license them from. We give you a personal, non-exclusive, non-transferable permission to use the app under these terms. Don't copy, change, sell or redistribute it, or try to extract its source code, except as the law allows.
 
-Mise includes open-source software, which is covered by its own licences. Some demo recipes show photos from Unsplash, under the Unsplash licence.
+Platerie includes open-source software, which is covered by its own licences. Some demo recipes show photos from Unsplash, under the Unsplash licence. Ingredient photos come from TheMealDB (<https://www.themealdb.com>). Product names and logos in them belong to their owners, who aren't connected with Platerie.
 
-Links to other websites, such as a recipe's source, open outside Mise. We're not responsible for those websites.
+Links to other websites, such as a recipe's source, open outside Platerie. We're not responsible for those websites.
 
 If you send us ideas or suggestions, we can use them without owing you anything.
 
-## 10. Ending your use of Mise
+## 10. Ending your use of Platerie
 
-You can stop using Mise and delete your account whenever you like, from Settings on your profile.
+You can stop using Platerie and delete your account whenever you like, from Settings on your profile.
 
-We can suspend or terminate your account, or remove your content, if you break these terms (or we reasonably believe you have), if the law requires it, or if we reasonably need to in order to protect other people or Mise. We'll tell you as described in "Moderation".
+We can suspend or terminate your account, or remove your content, if you break these terms (or we reasonably believe you have), if the law requires it, or if we reasonably need to in order to protect other people or Platerie. We'll tell you as described in "Moderation".
 
-We can change Mise, add or remove features, or stop offering it. If we're going to close Mise down, we'll tell you by email or in the app at least 30 days before, so you can keep a copy of what you want.
+We can change Platerie, add or remove features, or stop offering it. If we're going to close Platerie down, we'll tell you by email or in the app at least 30 days before, so you can keep a copy of what you want.
 
 When your account ends, these terms stop applying to you, apart from the parts meant to last: the licence for the copies described in "Your content", and the sections on disclaimers, liability, claims against us, disputes and general terms.
 
-## 11. Mise is provided as is
+## 11. Platerie is provided as is
 
-We work to keep Mise running well, but it's free and provided "as is" and "as available".
+We work to keep Platerie running well, but it's free and provided "as is" and "as available".
 
-If you live outside the EU and the UK, then to the extent the law allows, we make no promises about Mise beyond what these terms say, and we disclaim implied warranties, such as of merchantability, fitness for a particular purpose and non-infringement.
+If you live outside the EU and the UK, then to the extent the law allows, we make no promises about Platerie beyond what these terms say, and we disclaim implied warranties, such as of merchantability, fitness for a particular purpose and non-infringement.
 
-If you live in the EU or the UK, we'll provide Mise with reasonable care and skill, and you have all the rights the law gives you as a consumer. Nothing in this section limits them.
+If you live in the EU or the UK, we'll provide Platerie with reasonable care and skill, and you have all the rights the law gives you as a consumer. Nothing in this section limits them.
 
-Wherever you live, we can't promise that Mise will always be available, secure or free of errors, that your content will never be lost, or that what other people post is accurate, safe or lawful. Keep your own copy of any recipe that matters to you.
+Wherever you live, we can't promise that Platerie will always be available, secure or free of errors, that your content will never be lost, or that what other people post is accurate, safe or lawful. Keep your own copy of any recipe that matters to you.
 
 ## 12. Our liability
 
@@ -177,11 +178,11 @@ If you live outside the EU and the UK, then to the extent the law allows, we are
 - indirect or consequential losses, or punitive damages
 - loss of profits, business, data or opportunities
 - what other users post or do
-- illness, allergic reactions, injury or damage from cooking, eating or serving a recipe you found on Mise
+- illness, allergic reactions, injury or damage from cooking, eating or serving a recipe you found on Platerie
 
-To the extent the law allows, our total liability to you for everything to do with Mise is limited to 50 US dollars. These limits apply however a claim arises, including in contract or negligence.
+To the extent the law allows, our total liability to you for everything to do with Platerie is limited to 50 US dollars. These limits apply however a claim arises, including in contract or negligence.
 
-If you live in the EU or the UK, the limits above don't apply to you. Instead, we're responsible for loss or damage you suffer that's a foreseeable result of our breaking these terms or failing to use reasonable care and skill, but not for loss or damage that isn't foreseeable. Mise is for personal use, so we're not liable to you for business losses.
+If you live in the EU or the UK, the limits above don't apply to you. Instead, we're responsible for loss or damage you suffer that's a foreseeable result of our breaking these terms or failing to use reasonable care and skill, but not for loss or damage that isn't foreseeable. Platerie is for personal use, so we're not liable to you for business losses.
 
 Wherever you live, nothing in these terms excludes or limits our liability for death or personal injury caused by our negligence, for fraud, or for anything else the law doesn't let us exclude or limit. In the EU and the UK, that includes damage we cause on purpose or through gross negligence.
 
@@ -193,38 +194,38 @@ This section doesn't apply if you live in the EU or the UK, where the ordinary l
 
 ## 14. App stores
 
-If you got Mise from the App Store or Google Play, their terms also apply to your download and use of the app. These terms are between you and us, not Apple or Google. We, not they, are responsible for Mise and its content, for supporting and maintaining it, and for investigating, defending and settling claims about it, such as product liability claims, claims that it breaks the law or consumer protection or privacy rules, and claims that it infringes someone's intellectual property.
+If you got Platerie from the App Store or Google Play, their terms also apply to your download and use of the app. These terms are between you and us, not Apple or Google. We, not they, are responsible for Platerie and its content, for supporting and maintaining it, and for investigating, defending and settling claims about it, such as product liability claims, claims that it breaks the law or consumer protection or privacy rules, and claims that it infringes someone's intellectual property.
 
-If you use Mise on an Apple device:
+If you use Platerie on an Apple device:
 
 - you may use it only on Apple devices you own or control, as the App Store's usage rules allow
-- Apple has no obligation to support or maintain Mise
-- if Mise doesn't meet a warranty that applies to it, you can tell Apple, and Apple will refund the price you paid for it, if any (Mise is free). Apart from that, and to the extent the law allows, Apple has no warranty obligation for Mise, and any other claim that it doesn't meet a warranty is for us, not Apple, to deal with
-- you must follow any third-party terms that apply when you use Mise, such as your mobile data contract
+- Apple has no obligation to support or maintain Platerie
+- if Platerie doesn't meet a warranty that applies to it, you can tell Apple, and Apple will refund the price you paid for it, if any (Platerie is free). Apart from that, and to the extent the law allows, Apple has no warranty obligation for Platerie, and any other claim that it doesn't meet a warranty is for us, not Apple, to deal with
+- you must follow any third-party terms that apply when you use Platerie, such as your mobile data contract
 - you confirm that you're not in a country that's under a US government embargo or that the US government has designated as supporting terrorism, and that you're not on any US government list of prohibited or restricted parties
 - Apple and its subsidiaries are third-party beneficiaries of these terms, which means Apple can enforce them against you
 
 ## 15. Changes to these terms
 
-We may update these terms, for example when Mise changes or the law does. The date at the top shows when they last changed. The app shows the version that was current when your copy of the app was released. The latest version is always at <https://miserecipes.github.io/legal/terms>, and we'll link to it when we tell you about a change.
+We may update these terms, for example when Platerie changes or the law does. The date at the top shows when they last changed. The app shows the version that was current when your copy of the app was released. The latest version is always at <https://platerie.github.io/legal/terms>, and we'll link to it when we tell you about a change.
 
 If a change is significant, for example if it reduces your rights or adds new obligations, we'll tell you by email or in the app at least 30 days before it takes effect. A change can take effect sooner if the law requires it, to deal with abuse or a safety risk, or if it only covers a new feature and doesn't reduce your rights.
 
-If you don't accept a change, you can delete your account before it takes effect. If you keep using Mise after it takes effect, the new terms apply to you.
+If you don't accept a change, you can delete your account before it takes effect. If you keep using Platerie after it takes effect, the new terms apply to you.
 
 ## 16. Disputes
 
-If you have a problem with Mise, please email [support@example.com](mailto:support@example.com) first. Most things can be sorted out quickly that way.
+If you have a problem with Platerie, please email [support@example.com](mailto:support@example.com) first. Most things can be sorted out quickly that way.
 
 If you're a consumer, you keep the protection of the mandatory laws of the country, or US state, where you live, and nothing in these terms takes it away. If you live in the EU or the UK, you can also bring a claim in the courts where you live.
 
 ## 17. General terms
 
-- These terms are the agreement between you and us about using Mise. If you live outside the EU and the UK, they're the whole agreement between us about it. The Privacy Policy explains how we handle your personal data, but it isn't part of this agreement.
+- These terms are the agreement between you and us about using Platerie. If you live outside the EU and the UK, they're the whole agreement between us about it. The Privacy Policy explains how we handle your personal data, but it isn't part of this agreement.
 - If a court decides that part of these terms can't be enforced, the rest still applies. If you live outside the EU and the UK, that part also still applies as far as the law allows; if you live in the EU or the UK, it doesn't apply at all.
 - If we don't enforce something in these terms straight away, we can still enforce it later.
-- You can't transfer your rights or obligations under these terms to anyone else. We can transfer ours to someone who takes over Mise, as long as that doesn't reduce your rights under these terms, and we'll tell you before we do. If you don't want to continue with them, you can delete your account.
-- Nobody else has rights under these terms, except Apple as described in "App stores", and other people using Mise, who can rely on the permission to use your content that "Your content" gives them.
+- You can't transfer your rights or obligations under these terms to anyone else. We can transfer ours to someone who takes over Platerie, as long as that doesn't reduce your rights under these terms, and we'll tell you before we do. If you don't want to continue with them, you can delete your account.
+- Nobody else has rights under these terms, except Apple as described in "App stores", and other people using Platerie, who can rely on the permission to use your content that "Your content" gives them.
 - We're not responsible for delays or failures caused by things outside our reasonable control, such as an outage at our hosting provider.
 - We'll contact you by email at your account's address, or in the app.
 

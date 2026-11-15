@@ -2,86 +2,92 @@
 
 # Privacy Policy
 
-*Effective October 8, 2026*
+*Effective November 10, 2026*
 
-This policy explains what personal data Mise collects, how we use it, who can see it, and the choices and rights you have. It covers the Mise app and the web pages for these documents.
+This policy explains what personal data Platerie collects, how we use it, who can see it, and the choices and rights you have. It covers the Platerie app and the web pages for these documents.
 
-Mise is run by the Mise team ("we", "us"), who decide how your personal data is used. That makes us its "controller" under data protection laws such as the GDPR. You can reach us about anything in this policy at [support@example.com](mailto:support@example.com).
+Platerie is run by the Platerie team ("we", "us"), who decide how your personal data is used. That makes us its "controller" under data protection laws such as the GDPR. You can reach us about anything in this policy at [support@example.com](mailto:support@example.com).
 
-The short version: Mise keeps what it needs to run your account and share your recipes. Your profile, recipes, comments, likes, cooked marks and follows are public. Your email address, saves, ratings, pantry, collections, blocks and reports are private. There are no ads or analytics, we don't sell your data, and we don't track you. You can delete your account and nearly everything in it from the app.
+The short version: Platerie keeps what it needs to run your account and share your recipes and stories. Your profile, recipes, comments, likes, "Made it" marks and follows are public. Your stories are shown only to your followers, for 24 hours. Your email address, saves, ratings, pantry, collections, blocks and reports are private. There are no ads or analytics (apart from what Google's sign-in code collects if you use Continue with Google), we don't sell your data, and we don't track you. You can delete your account and nearly everything in it from the app.
 
 ## 1. What we collect
 
 When you sign up and set up your profile:
 
 - your email address and password (sign-in is handled by Supabase Auth, which stores your password only as a secure hash, so nobody, including us, can read it)
+- if you sign in with Apple or Google: what they share with us, which is your email address and whether it's verified, an ID for your Apple or Google account, and your name. From Google, also the address of your Google profile photo and, for a work or school account, its domain. Apple shares your name only the first time, and only if you choose to, and it lets you hide your email address: we then get an address that Apple forwards to yours. We can suggest your first name for your display name; it's only used if you choose it. We never see your Apple or Google password.
 - your handle and display name, and if you add them, a bio and a profile photo
-- account records: your account ID; when you signed up, confirmed your email address and last signed in; the one-time codes we email you; the IP address and device or browser type of each device you're signed in on; and a log of account events, such as sign-ins and password or email changes, with the IP address they came from
+- account records: your account ID; when you signed up, confirmed your email address and last signed in; when you confirmed you're 13 or older and agreed to the Terms of Use, and which version you agreed to; the one-time codes we email you; the IP address and device or browser type of each device you're signed in on; and a log of account events, such as sign-ins and password or email changes, with the IP address they came from, and, if you sign in with Google, the name on your Google account
 
-You need an email address, a password and a handle to have an account. Your display name is your handle unless you choose another, and everything else is up to you.
+You need an email address and a handle to have an account, and a password unless you sign in with Apple or Google. Your display name is your handle unless you choose another, and everything else is up to you.
 
 What you post:
 
-- recipes: title, cuisine, category, difficulty, time, servings, ingredients, steps, notes and source, with their photos and videos
+- recipes: title, cuisine, category, difficulty, time, servings, ingredients, special tools, steps, notes and source, with their photos and videos
 - comments on recipes
+- stories: a photo or video, and if you add them, a caption and a link to a recipe
 
-A photo or video can include hidden details (metadata), such as when and where it was taken, depending on your phone and its settings. Mise doesn't read or use them, and it can't promise to remove them: they can stay in the file, which anyone with its link can download. If that matters to you, turn off location for your camera, or remove it from the file before you post.
+A photo or video can include hidden details (metadata), such as when and where it was taken, depending on your phone and its settings. Platerie doesn't read or use them, and it can't promise to remove them: they can stay in the file, which anyone with its link can download. If that matters to you, turn off location for your camera, or remove it from the file before you post.
 
-What you do in Mise:
+What you do in Platerie:
 
-- likes, cooked marks, follows, and follow requests you send and receive
-- saves, private ratings, your pantry and shopping list, collections, and notifications you hide
-- reports you make (the reason, any details you add, and a copy of the reported recipe's text, or of the reported comment and the text of the recipe it's on), and people you block
+- likes, "Made it" marks, follows (with when each was accepted), follow requests you send and receive, and whether you approve followers
+- saves, private ratings, your pantry and grocery list, collections (with any cover photo you add), and notifications you hide
+- reports you make (the reason, any details you add, and a copy of the reported recipe's text, of the reported comment and the text of the recipe it's on, or of the reported story, whose photo or video is kept while the report is open), and people you block
 
 When you contact us: your email address, what you write, and our replies. If you send a copyright notice or counter-notice, that also includes your name, postal address and phone number.
 
-Technical data: whenever the app talks to our servers, Supabase receives what any internet service does, such as your IP address, your device or browser type, the time, and what was asked for (which can include something you searched for). It keeps this in service logs to run and secure Mise. Mise doesn't keep a history of your searches.
+Technical data: whenever the app talks to our servers, Supabase receives what any internet service does, such as your IP address, your device or browser type, the time, and what was asked for (which can include something you searched for). It keeps this in service logs to run and secure Platerie. Platerie doesn't keep a history of your searches.
 
-From other people: what others do in Mise can include you, for example when they follow you, comment on your recipe, mention you, report you or block you.
+From other people: what others do in Platerie can include you, for example when they follow you, comment on your recipe, link it in a story, mention you, report you or block you.
 
-What Mise doesn't collect: Mise opens your photo library only when you choose to add a photo or video, and uploads only what you pick. It doesn't use your camera or microphone. It doesn't ask for your location (though a photo or video you post can contain it, as explained above), and it doesn't collect your contacts, payment details or advertising identifiers. Read-aloud in cooking mode uses your device's own speech, and if you dictate with your keyboard, your phone handles that and Mise only gets the text.
+What Platerie doesn't collect: Platerie opens your photo library only when you choose to add a photo or video, and uploads only what you pick. It doesn't use your camera or microphone. It doesn't ask for your location (though a photo or video you post can contain it, as explained above), and it doesn't collect your contacts, payment details or advertising identifiers. Read-aloud in cooking mode uses your device's own speech, and if you dictate with your keyboard, your phone handles that and Platerie only gets the text.
 
 We don't ask for sensitive information, such as about your health or religion, and we don't try to work it out from what you cook, like, save or rate. If you put something like that in a public post (for example, that a recipe suits your allergy), it's public like the rest of the post, because you've chosen to make it public. If you put it somewhere private, such as a collection's name, your pantry or a report, only you (and we) can see it, and we use it only to show it back to you or to deal with the report. Please don't post anyone else's health or other sensitive information.
 
 ## 2. What's public and what's private
 
-Public means anyone can see it, including people who don't have a Mise account, and they can copy or share it. Anyone can see:
+Public means anyone can see it, including people who don't have a Platerie account, and they can copy or share it. Anyone can see:
 
-- your profile (handle, display name, bio, photo and when you joined), which people can find by searching for your handle or name. It's public from the moment you sign up, even before you confirm your email address
+- your profile (handle, display name, bio, photo, when you joined and whether you approve followers), which people can find by searching for your handle or name. It's public from the moment you sign up, even before you confirm your email address
 - your recipes, with their photos and videos
 - your comments
-- your likes and cooked marks, and when you left them: anyone can look up which recipes you've liked or marked as cooked. In the app, recipes show how many they have, and their authors see who left them
-- who you follow and who follows you, once a request is accepted
+- your likes and "Made it" marks, and when you left them: anyone can look up which recipes you've liked or marked as made. In the app, recipes show how many they have, and their authors see who left them
+- who you follow and who follows you, and when, once a follow is accepted
 
-Photos and videos you post can be opened by anyone who has their link, even outside Mise. New accounts, and people who've posted recently, can be suggested to others under Cooks to follow.
+The photos and videos in your recipes, your profile photo and your collections' cover photos can be opened by anyone who has their link, even outside Platerie. New accounts, and people who've posted recently, can be suggested to others under Cooks to follow.
+
+Your stories aren't public. Each one is shown to your followers for 24 hours after you post it, and never to anyone you've blocked or who has blocked you. Its photo or video isn't public either: the app opens it through a temporary link, which only someone who can see the story can get, and anyone with that link can open the file until the link expires. As with anything you share, people who see your story can keep a copy of it.
+
+Approve followers is on unless you turn it off, under Account privacy in Settings. While it's on, people ask to follow you, and only those you accept become followers and see your stories. If you turn it off, anyone can follow you without asking and see your stories straight away. You can remove a follower at any time; they aren't told.
 
 Only you (and we) can see:
 
 - your email address
-- your saves, ratings, pantry and shopping list, collections and hidden notifications
+- your saves, ratings, pantry and grocery list, collections (with any cover photo you add) and hidden notifications
 - the people you've blocked and the reports you've made (copyright notices and counter-notices are passed on, as "Who else handles your data" says)
 
-A follow request is seen only by the two people involved until it's accepted. When you block someone, neither of you sees the other's recipes or comments in Mise, but you can both still see each other's profiles.
+A follow request is seen only by the two people involved until it's accepted. When you block someone, neither of you sees the other's recipes, comments or stories in Platerie, but you can both still see each other's profiles.
 
-The people who run Mise can see all of this when we need to: to run Mise, review reports, help you when you ask, or meet a legal obligation.
+The people who run Platerie can see all of this when we need to: to run Platerie, review reports, help you when you ask, or meet a legal obligation.
 
 ## 3. How we use it, and our legal bases
 
 We use your data only for these purposes. Where the law asks for a legal basis, as the GDPR does in the EU and the UK, it's given for each.
 
-- To run your account and Mise's features: signing you in, showing your recipes, comments and activity to the people they're meant for, your feed (recipes from people you follow), Discover, Cooks to follow, your activity, pantry and collections. Legal basis: it's needed to provide Mise under our terms (contract).
+- To run your account and Platerie's features: signing you in, showing your recipes, stories, comments and activity to the people they're meant for, your feed (recipes and stories from people you follow, and popular recipes while it has fewer than four of its own), Discover, Cooks to follow, your activity, pantry and collections. Legal basis: it's needed to provide Platerie under our terms (contract).
 - To send account emails: codes to confirm your email address, reset or change your password, or change your email address, and messages about your account or changes to these documents. Legal basis: contract, and our legitimate interest in keeping you informed. We don't send marketing emails.
-- To keep Mise safe: checking text against our blocked-words list and handle rules, reviewing reports, handling copyright notices and counter-notices as the Terms of Use describe, enforcing the Terms of Use, keeping records of reports and what we decided, stopping people we've banned from coming back, and preventing abuse. Legal basis: our legitimate interest in keeping Mise and the people on it safe, and legal obligations where they apply.
-- To keep Mise secure and working: service logs, and looking into problems. Legal basis: our legitimate interest in a secure, working service.
+- To keep Platerie safe: checking text against our blocked-words list and handle rules, reviewing reports, handling copyright notices and counter-notices as the Terms of Use describe, enforcing the Terms of Use, keeping records of reports and what we decided, stopping people we've banned from coming back, and preventing abuse. Legal basis: our legitimate interest in keeping Platerie and the people on it safe, and legal obligations where they apply.
+- To keep Platerie secure and working: service logs, and looking into problems. Legal basis: our legitimate interest in a secure, working service.
 - To answer you when you contact us. Legal basis: contract, or our legitimate interest in helping you.
-- To meet legal obligations and protect rights: answering lawful requests from authorities, reporting child sexual exploitation, and making or defending legal claims. Legal basis: legal obligation, and our legitimate interest in protecting Mise, the people on it and others.
-- If Mise is sold or transferred to someone else, or someone is considering taking it over: to hand Mise and its data over to them, as "Who else handles your data" describes. Legal basis: our legitimate interest in being able to transfer Mise.
+- To meet legal obligations and protect rights: answering lawful requests from authorities, reporting child sexual exploitation, and making or defending legal claims. Legal basis: legal obligation, and our legitimate interest in protecting Platerie, the people on it and others.
+- If Platerie is sold or transferred to someone else, or someone is considering taking it over: to hand Platerie and its data over to them, as "Who else handles your data" describes. Legal basis: our legitimate interest in being able to transfer Platerie.
 
 Where we rely on legitimate interests, you can object (see "Your rights"). We don't use your data for advertising, we don't sell it, and we don't use it to train AI models. If we want to use it for something new, we'll update this policy first, and ask for your consent where the law requires it.
 
 ## 4. Who else handles your data
 
-Supabase hosts Mise's database, sign-in (Supabase Auth), storage for photos and videos, and service logs. It processes your data only to provide those services to us, under a data processing agreement. Its privacy policy is at <https://supabase.com/privacy>.
+Supabase hosts Platerie's database, sign-in (Supabase Auth), storage for photos and videos, and service logs. It processes your data only to provide those services to us, under a data processing agreement. Its privacy policy is at <https://supabase.com/privacy>.
 
 Account emails are sent by Supabase Auth through an email delivery service we use with it, which receives your email address and the message. Emails you send us, and our replies, are kept by the email service that hosts our mailbox.
 
@@ -89,7 +95,9 @@ The web pages for these documents are hosted by a web hosting service, which rec
 
 These providers may use their own service providers; Supabase, for example, runs on Amazon Web Services. Everyone who handles your data for us must keep it confidential and secure, use it only to provide their service to us, and protect it as this policy does.
 
-Apple and Google deliver the app and handle its downloads under their own privacy policies. They may give us statistics about downloads and, if you've allowed it in your phone's settings, crash reports. Mise doesn't add analytics or crash reporting tools of its own.
+Apple and Google deliver the app and handle its downloads under their own privacy policies. They may give us statistics about downloads and, if you've allowed it in your phone's settings, crash reports. Platerie doesn't add analytics or crash reporting tools of its own.
+
+If you sign in with Apple or Google, they handle that sign-in under their own privacy policies (<https://www.apple.com/legal/privacy/> and <https://policies.google.com/privacy>). Continue with Google uses Google's sign-in code in the app, which also sends Google your IP address (which Google may use to estimate your general location, to prevent fraud), an identifier for your device, and information about the sign-in. Beyond the sign-in itself, we don't tell Apple or Google anything about what you do in Platerie. When you delete an account that signs in with Apple on an iPhone, the app asks Apple to end Platerie's access to your Apple Account. If it can't, or if you delete the account on Android or by email, we tell you how to end it yourself.
 
 Photos and videos posted from the app are stored with Supabase. Some demo recipes show photos hosted by Unsplash, and a recipe or profile could also be set to show a photo or video from another website. Your device loads these from the website that hosts them, and whoever runs that website receives your IP address and device details, as any website does (for Unsplash, see <https://unsplash.com/privacy>).
 
@@ -99,79 +107,82 @@ If you send us a copyright notice, we give a copy of it, including your name and
 
 We may disclose data when the law requires it (for example, a valid court order), to report child sexual exploitation to the authorities (in the US, NCMEC), to protect someone from serious harm, or to make or defend legal claims.
 
-If Mise is transferred to someone else, for example if it's sold, your data would go to them, and they'd have to keep to this policy. We'd tell you before that happens.
+If Platerie is transferred to someone else, for example if it's sold, your data would go to them, and they'd have to keep to this policy. We'd tell you before that happens.
 
-Apart from these, and the public data other people using Mise can see, we don't share your data with anyone.
+Apart from these, and what other people using Platerie can see (your public data, and your stories if they follow you), we don't share your data with anyone.
 
 ## 5. No ads, no selling, no tracking
 
-Mise has no ads and no advertising or analytics tools. We don't sell or rent your personal data, we don't share it for targeted advertising, and we don't track you across other companies' apps or websites. No other company collects data about you through Mise, apart from the services described above and websites whose photos or videos a recipe or profile shows.
+Platerie has no ads, and no advertising or analytics tools of its own. If you use Continue with Google, Google's sign-in code collects some data, which Google also uses for analytics (see "Who else handles your data"). We don't sell or rent your personal data, we don't share it for targeted advertising, and we don't track you across other companies' apps or websites. No other company collects data about you through Platerie, apart from the services described above and websites whose photos or videos a recipe or profile shows.
 
-So there's nothing to opt out of: Mise works the same whether or not your browser or device sends a "Do Not Track" or Global Privacy Control signal.
+So there's nothing to opt out of: Platerie works the same whether or not your browser or device sends a "Do Not Track" or Global Privacy Control signal.
 
 ## 6. Where your data is stored
 
-Mise's database and files are stored with Supabase in the United States, in Amazon Web Services' East US (Ohio) region, and our providers may handle data in other countries where they work. If you're outside the US, your data goes to the US, which doesn't have the same data protection laws as the EU or the UK.
+Platerie's database and files are stored with Supabase in the United States, in Amazon Web Services' East US (Ohio) region, and our providers may handle data in other countries where they work. If you're outside the US, your data goes to the US, which doesn't have the same data protection laws as the EU or the UK.
 
 Where the GDPR or the UK GDPR requires safeguards for this, we rely on the standard contractual clauses in our data processing agreements with our providers, such as Supabase's. Email us for a copy.
 
 ## 7. How long we keep it
 
-- Your account and everything in it: until you delete it. When you delete a recipe, a comment or anything else you've added, it's removed from Mise straight away.
+- Your account and everything in it: until you delete it, apart from stories (below). When you delete a recipe, a comment or anything else you've added, it's removed from Platerie straight away.
+- Stories: deleted two days after you post them, or sooner if you delete them in their first 24 hours, while your followers can see them. The app removes a story's photo or video from storage when you delete the story, or the next time you use Platerie after it's been deleted; any left behind are cleared out with the leftover files below. While a report about a story is open, the story is kept past the two days, and its photo or video stays even if you delete the story or your account; once we've dealt with the report, they go as above.
 - If you start signing up but don't confirm your email address, we delete the account, with its email address, handle and display name, after 30 days.
+- If you start signing up with Apple or Google but don't finish setting up your profile, and haven't added anything with the account, we delete it, with what Apple or Google shared, after 30 days.
 - The record of each device you're signed in on: until you sign out or delete your account. Signing out on any device while it's online signs you out on all of them and removes every device's record. Uninstalling the app doesn't remove the record, so sign out first, or sign out later on another device.
-- Photos and videos you replace or delete are removed from storage straight away, though a copy can stay in our storage provider's cache for up to an hour. If removing one fails (for example, because your connection drops), the file can stay in storage, where only someone who already has its link can open it, until we clear out leftover files, which we do at least every three months, or until you delete your account.
-- Reports: up to two years after they're made, or longer if the law requires it or we need them for a legal claim. They stay after the content or account they were about is deleted, so there's a record of what was reported and what we did.
-- If we terminate an account for breaking the rules, we may keep some of its details for up to five years, to stop it being used to sign up again: its account ID, email address and password (stored only as a hash), the handle and name it signed up with, when it signed up and last signed in, and a note of why we closed it.
+- Photos and videos you replace or delete are removed from storage straight away (apart from a reported story's, as above), though a copy can stay in our storage provider's cache for up to an hour. If removing one fails (for example, because your connection drops), the file can stay in storage, where only someone who already has its link can open it, until we clear out leftover files, which we do at least every three months, or until you delete your account.
+- Reports: up to two years after they're made, or longer if the law requires it or we need them for a legal claim. They stay after the content or account they were about is deleted, so there's a record of what was reported and what we did. A report about a story keeps a copy of the story's caption, and the story's photo or video stays while the report is open.
+- If we terminate an account for breaking the rules, we may keep some of its details for up to five years, to stop it being used to sign up again: its account ID, email address and password (stored only as a hash), the ID of any Apple or Google account it signed in with, the handle, name and Terms of Use version it signed up with, when it signed up and last signed in, and a note of why we closed it.
 - Emails between you and us: up to two years after we've dealt with them.
 - Service logs, and the log of sign-ins and other account events: up to 90 days. Backups: up to 30 days.
-- On your device: your session until you sign out, and your settings until you uninstall the app or clear its data (see "Cookies and data on your device").
+- On your device: your session until you sign out; a new recipe you've started, until you publish it, choose Start over or clear what you've written; and the rest until you uninstall the app or clear its data. Deleting your account in the app also removes them from the device you do it on, apart from whether read-aloud is on (see "Cookies and data on your device").
 - We may keep something for longer if the law requires it, or while we need it for a legal claim or an investigation, for example into child sexual exploitation.
 
 ## 8. Deleting your account
 
-In the app: go to your profile, tap Settings (the gear) and choose Delete account, then Delete forever. It's permanent and can't be undone.
+In the app: go to your profile, tap Settings (the gear) and choose Delete account, then Delete forever. It's permanent and can't be undone. If your account signs in with Apple, on an iPhone the app also ends Platerie's access to your Apple Account (Apple may ask you to confirm it's you). Otherwise, the app tells you how to end it yourself.
 
-Without the app: email [support@example.com](mailto:support@example.com) from the address your account uses and ask us to delete it. If you can't use that address, tell us your handle and we'll find another way to check the account is yours (we can't delete it if we can't). We'll delete it within one month, usually much sooner, and tell you when it's done.
+Without the app: email [support@example.com](mailto:support@example.com) from the address your account uses and ask us to delete it. If you can't use that address, tell us your handle and we'll find another way to check the account is yours (we can't delete it if we can't). We'll delete it within one month, usually much sooner, and tell you when it's done. If your account signs in with Apple, also remove Platerie from Sign in with Apple yourself: on your iPhone, open Settings, tap your name, then Sign in with Apple, choose Platerie and tap Delete.
 
 What's deleted:
 
-- your account: your email address, password, handle, display name, bio and profile photo
-- your recipes, with their photos and videos, and the comments, likes, cooked marks, saves and ratings other people left on them
-- your comments, likes and cooked marks on other people's recipes
-- your saves, ratings, pantry, shopping list and collections
+- your account: your email address, password, handle, display name, bio and profile photo, and what Apple or Google shared when you signed in with them
+- your recipes, with their photos and videos, and the comments, likes, "Made it" marks, saves and ratings other people left on them
+- your stories, with their photos and videos
+- your comments, likes and "Made it" marks on other people's recipes
+- your saves, ratings, pantry, grocery list and collections, with their cover photos
 - your follows, followers and follow requests, blocks between you and other people, and the notifications you've hidden
 
 What's kept, and for how long:
 
 - Reports you made stay, so there's a record of what was reported and what we did, but they're no longer linked to your account. Anything you wrote in a report stays in it.
-- Reports other people made about you or your content stay too, with their copy of the reported comment's or recipe's text, but they're no longer linked to your account. So do reports about comments on your recipes, which keep a copy of your recipe's text.
+- Reports other people made about you or your content stay too, with their copy of the reported comment's or recipe's text or of the reported story's caption, but they're no longer linked to your account. So do reports about comments on your recipes, which keep a copy of your recipe's text.
 - We keep reports for up to two years after they're made, or longer if the law requires it or we need them for a legal claim.
-- If some photos or videos can't be removed when you delete your account, the app tells you, and we remove what's left within 30 days.
+- If some photos or videos can't be removed when you delete your account, the app tells you, and we remove what's left within 30 days. If a report about one of your stories is still open, its photo or video is kept until we've dealt with the report, and removed within 30 days after that.
 - Copies can stay in our storage provider's cache for up to an hour, and in our hosting provider's backups for up to 30 days.
-- Records of sign-ins and other account events, which include your email address and IP address, are kept for up to 90 days and then deleted. So are service logs.
-- If we've closed your account for breaking the Terms of Use, we may keep some of its details for up to five years, to stop it being used to sign up again: its account ID, email address and password (stored only as a hash), the handle and name it signed up with, when it signed up and last signed in, and a note of why we closed it.
+- Records of sign-ins and other account events, which include your email address, IP address and, if you sign in with Google, the name on your Google account, are kept for up to 90 days and then deleted. So are service logs.
+- If we've closed your account for breaking the Terms of Use, we may keep some of its details for up to five years, to stop it being used to sign up again: its account ID, email address and password (stored only as a hash), the ID of any Apple or Google account it signed in with, the handle, name and Terms of Use version it signed up with, when it signed up and last signed in, and a note of why we closed it.
 - We keep emails you've sent us for up to two years after we've dealt with them, and anything else the law requires us to keep.
-- Ingredients other people added from your recipes to their own pantry or shopping list stay there until they remove them.
-- We can't delete copies other people have made outside Mise, for example by sharing one of your recipes.
+- Ingredients other people added from your recipes to their own pantry or grocery list stay there until they remove them.
+- We can't delete copies other people have made outside Platerie, for example by sharing one of your recipes.
 
 ## 9. Automated decisions
 
-Some decisions in Mise are made automatically. When you save a handle, name, bio, recipe or comment, the database checks it against a list of blocked words and its length limits. Handles must also follow the handle rules: 3 to 30 letters, numbers, dots or underscores, not already taken, and not a name that looks like it speaks for Mise, such as "admin" or "support". If something doesn't pass, it isn't saved, and you can change it and try again. If you think a check blocked something by mistake, email us and a person will look at it.
+Some decisions in Platerie are made automatically. When you save a handle, name, bio, recipe, comment or story caption, the database checks it against a list of blocked words and its length limits. Handles must also follow the handle rules: 3 to 30 letters, numbers, dots or underscores, not already taken, and not a name that looks like it speaks for Platerie, such as "admin" or "support". If something doesn't pass, it isn't saved, and you can change it and try again. If you think a check blocked something by mistake, email us and a person will look at it.
 
 These checks don't affect your account. Decisions about reports and accounts are always made by a person, and no decision with legal or similarly significant effects on you is made automatically.
 
-What you see is ordered simply: your feed shows recipes from people you follow, newest first, and Discover shows the newest recipes and the ones with the most likes and cooked marks. Mise doesn't build a profile of you to decide what you see.
+What you see is ordered simply: your feed shows recipes from people you follow, newest first, with stories above them (yours first, then whoever posted most recently). While it has fewer than four, popular recipes come after them: the most liked this week, then the most liked of all time, starting with any from the cuisines you picked when you joined. Discover shows the newest recipes, the ones with the most likes this week and the ones with the most "Made it" marks. Platerie doesn't build a profile of you to decide what you see: the cuisines you pick stay on your device and aren't sent to us.
 
 ## 10. Security
 
-Everything between the app and our servers is encrypted in transit (HTTPS). The database only lets each person read and change what this policy says they can, passwords are stored only as secure hashes, and only the people who run Mise can access the database directly.
+Everything between the app and our servers is encrypted in transit (HTTPS). The database only lets each person read and change what this policy says they can, passwords are stored only as secure hashes, and only the people who run Platerie can access the database directly.
 
 No service is perfectly secure. If a security breach affects your data, we'll tell you, and the authorities, as the law requires. Please use a strong password that you don't use anywhere else.
 
 ## 11. Your rights
 
-In the app you can see and change your profile, delete anything you've posted, unblock people, change your email address and password, and delete your account. You can turn off Mise's access to your photos in your phone's settings.
+In the app you can see and change your profile, delete anything you've posted (a story in its first 24 hours), unblock people, change your email address and password, and delete your account. You can turn off Platerie's access to your photos in your phone's settings.
 
 Depending on where you live (for example in the EU, the UK, California and other US states), you also have the right to:
 
@@ -190,17 +201,17 @@ If you have a complaint about how we handle your data, email us: we'll confirm w
 
 ## 12. US state privacy rights
 
-Some US state laws, such as California's (the CCPA, as amended by the CPRA), ask for more detail. In the last 12 months, Mise has collected these categories of personal information, from you, your device and other people using Mise, for the purposes in "How we use it, and our legal bases":
+Some US state laws, such as California's (the CCPA, as amended by the CPRA), ask for more detail. In the last 12 months, Platerie has collected these categories of personal information, from you, your device and other people using Platerie, for the purposes in "How we use it, and our legal bases":
 
-- identifiers: email address, handle, account ID and IP address, and if you send us a copyright notice or counter-notice, your name, postal address and phone number
-- name: your display name
-- internet or other electronic network activity: what you do in Mise, such as likes, saves and follows, records of sign-ins, and service logs
-- audio, electronic and visual information: photos and videos you post
-- geolocation: where a photo or video you post was taken, if the file contains it (Mise doesn't read or use it)
+- identifiers: email address, handle, account ID, the ID of any Apple or Google account you sign in with, and IP address, and if you send us a copyright notice or counter-notice, your name, postal address and phone number
+- name: your display name, and the name Apple or Google shares when you sign in with them
+- internet or other electronic network activity: what you do in Platerie, such as likes, saves and follows, records of sign-ins, and service logs
+- audio, electronic and visual information: photos and videos you post, and cover photos you add to your collections
+- geolocation: where a photo or video you post was taken, if the file contains it (Platerie doesn't read or use it)
 - sensitive personal information: your account login (email address and password), and the location in a photo or video you post, which can be precise
-- other information you give us: recipes, comments, bio, ratings, pantry, collections and reports
+- other information you give us: recipes, stories, comments, bio, ratings, pantry, collections and reports
 
-We disclose these to the service providers in "Who else handles your data", for the business purposes there; to other people using Mise when they're public; and, for copyright notices and counter-notices, to the other person involved. We don't sell personal information or share it for cross-context behavioural advertising, and we haven't in the last 12 months. We have no actual knowledge of selling or sharing the personal information of anyone under 16. We use sensitive personal information only to provide Mise, not to infer anything about you. Mise doesn't ask for your location, but a photo or video you post can contain where it was taken (see "What we collect").
+We disclose these to the service providers in "Who else handles your data", for the business purposes there; to other people using Platerie when they're public, and your stories to your followers; and, for copyright notices and counter-notices, to the other person involved. We don't sell personal information or share it for cross-context behavioural advertising, and we haven't in the last 12 months. We have no actual knowledge of selling or sharing the personal information of anyone under 16. We use sensitive personal information only to provide Platerie, not to infer anything about you. Platerie doesn't ask for your location, but a photo or video you post can contain where it was taken (see "What we collect").
 
 You have the right to know what we collect, use and disclose, and to get a copy of it; to delete it; to correct it; to opt out of its sale or sharing, of targeted advertising and of profiling (we do none of these); to limit the use of sensitive personal information (we use it only as the law allows without that); and not to be discriminated against for using these rights. We won't refuse you service or treat you differently because you used them.
 
@@ -212,21 +223,23 @@ California's "Shine the Light" law: we don't share personal information with any
 
 ## 13. Children
 
-Mise isn't for children under 13, or under the minimum age where they live if that's higher. We don't knowingly collect personal data from them. If we learn that a child under that age has an account, we delete it. If you think a child has an account, email [support@example.com](mailto:support@example.com).
+Platerie isn't for children under 13, or under the minimum age where they live if that's higher. We don't knowingly collect personal data from them. If we learn that a child under that age has an account, we delete it. If you think a child has an account, email [support@example.com](mailto:support@example.com).
 
-If you're under 18, remember that what you post is public. Don't share where you live, where you go to school, or other details that could identify you.
+If you're under 18, remember that what you post is public, apart from your stories, which your followers see. Keep Approve followers on, so only people you accept can follow you and see your stories. Don't share where you live, where you go to school, or other details that could identify you.
 
 ## 14. Cookies and data on your device
 
-The app doesn't use cookies. It keeps a few things in your device's storage (in a web browser, its local storage): your sign-in session, so you stay signed in; whether read-aloud is on in cooking mode; and when you last looked at your activity, so it can show you when there's something new. They're only for those features, and they're never used to track you.
+The app doesn't use cookies. It keeps a few things in your device's storage (in a web browser, its local storage): your sign-in session, so you stay signed in; whether read-aloud is on in cooking mode; when you last looked at your activity, so it can show you when there's something new; which of the current stories you've watched, so the tray can show you new ones; a new recipe you've started writing (its words and choices, not its photos or videos), so you can pick it up again; that you've seen the screens a new account starts with, so they only show once; and the cuisines you picked on them, so your feed can start with those. They're only for those features, and they're never used to track you.
 
-Signing out removes your session. The rest stays until you uninstall the app or clear its data. If your Android phone backs up app data to your Google account, this storage can be included in that backup and restored if you reinstall Mise; we don't receive that backup. Your device also keeps a temporary cache of photos and videos you've viewed in Mise, which it clears as needed.
+Signing out removes your session. Publishing the recipe you've started, choosing Start over or clearing what you've written removes its draft. Deleting your account in the app removes all of these from the device you do it on, apart from whether read-aloud is on. On any other device you've used Platerie on, it only signs you out. The rest stays until you uninstall the app or clear its data. If your Android phone backs up app data to your Google account, this storage can be included in that backup and restored if you reinstall Platerie; we don't receive that backup. Your device also keeps a temporary cache of photos and videos you've viewed in Platerie, which it clears as needed.
+
+If you sign in with Apple and share your name, the app also keeps your first name on your device until it's saved with your account, usually straight away, and then removes it. Deleting your account removes it too.
 
 The web pages for these documents don't set cookies or use analytics.
 
 ## 15. Changes to this policy
 
-We'll update this policy when Mise changes what it collects or how it uses it, or when the law changes. The date at the top shows when it last changed. The app shows the version that was current when your copy of the app was released; the latest version is always at <https://miserecipes.github.io/legal/privacy>. Before a significant change takes effect, we'll tell you by email or in the app, and we'll ask for your consent if the law requires it.
+We'll update this policy when Platerie changes what it collects or how it uses it, or when the law changes. The date at the top shows when it last changed. The app shows the version that was current when your copy of the app was released; the latest version is always at <https://platerie.github.io/legal/privacy>. Before a significant change takes effect, we'll tell you by email or in the app, and we'll ask for your consent if the law requires it.
 
 ## 16. Contact
 
