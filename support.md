@@ -2,7 +2,7 @@
 
 # Platerie support
 
-Platerie is an app for sharing and cooking recipes, run by the Platerie team. For help with Platerie or your account, a privacy request, or to report a recipe, story, comment or person, email [support@example.com](mailto:support@example.com). We aim to review reports within 24 hours.
+Platerie is an app for sharing and cooking recipes, run by the Platerie team. For help with Platerie or your account, a privacy request, or to report a recipe, plate (a photo or video someone shares with their followers for 24 hours, called a story in earlier versions of the app), comment or person, email [support@example.com](mailto:support@example.com). We aim to review reports within 24 hours.
 
 ## Deleting your account
 
@@ -14,17 +14,18 @@ What's deleted:
 
 - your account: your email address, password, handle, display name, bio and profile photo, and what Apple or Google shared when you signed in with them
 - your recipes, with their photos and videos, and the comments, likes, "Made it" marks, saves and ratings other people left on them
-- your stories, with their photos and videos
+- your plates, with their photos and videos
+- ingredient photos you added
 - your comments, likes and "Made it" marks on other people's recipes
-- your saves, ratings, pantry, grocery list and collections, with their cover photos
+- your saves, ratings, cooking history, pantry, grocery list and collections, with their cover photos
 - your follows, followers and follow requests, blocks between you and other people, and the notifications you've hidden
 
 What's kept, and for how long:
 
 - Reports you made stay, so there's a record of what was reported and what we did, but they're no longer linked to your account. Anything you wrote in a report stays in it.
-- Reports other people made about you or your content stay too, with their copy of the reported comment's or recipe's text or of the reported story's caption, but they're no longer linked to your account. So do reports about comments on your recipes, which keep a copy of your recipe's text.
+- Reports other people made about you or your content stay too, with their copy of the reported comment's or recipe's text or of the reported plate's caption, but they're no longer linked to your account. So do reports about comments on your recipes, which keep a copy of your recipe's text.
 - We keep reports for up to two years after they're made, or longer if the law requires it or we need them for a legal claim.
-- If some photos or videos can't be removed when you delete your account, the app tells you, and we remove what's left within 30 days. If a report about one of your stories is still open, its photo or video is kept until we've dealt with the report, and removed within 30 days after that.
+- If some photos or videos can't be removed when you delete your account, the app tells you, and we remove what's left within 30 days. If a report about one of your plates is still open, its photo or video is kept until we've dealt with the report, and removed within 30 days after that.
 - Copies can stay in our storage provider's cache for up to an hour, and in our hosting provider's backups for up to 30 days.
 - Records of sign-ins and other account events, which include your email address, IP address and, if you sign in with Google, the name on your Google account, are kept for up to 90 days and then deleted. So are service logs.
 - If we've closed your account for breaking the Terms of Use, we may keep some of its details for up to five years, to stop it being used to sign up again: its account ID, email address and password (stored only as a hash), the ID of any Apple or Google account it signed in with, the handle, name and Terms of Use version it signed up with, when it signed up and last signed in, and a note of why we closed it.
@@ -34,11 +35,11 @@ What's kept, and for how long:
 
 ## Deleting some of your data
 
-You don't have to delete your account to delete things. In the app you can delete any of your recipes and comments (and comments on your recipes), delete a story in its first 24 hours, remove likes, "Made it" marks, saves and ratings, clear your pantry and collections, change your bio, your profile photo and your collections' cover photos, and unfollow people, remove followers or unblock people. To ask us to delete anything else, email [support@example.com](mailto:support@example.com).
+You don't have to delete your account to delete things. In the app you can delete any of your recipes and comments (and comments on your recipes), delete a plate in its first 24 hours, remove likes, "Made it" marks, saves and ratings, clear your pantry and collections, change your bio, your profile photo and your collections' cover photos, and unfollow people, remove followers or unblock people. To ask us to delete anything else, email [support@example.com](mailto:support@example.com).
 
 ## Reporting and blocking
 
-Recipes, comments, stories and profiles each have a Report option in their menu, and you can block anyone from the same menus. If you don't have an account, email us the recipe's title and the poster's handle, the commenter's handle and what the comment says, or the handle of whoever posted the story and when.
+Recipes, comments, plates and profiles each have a Report option in their menu, and you can block anyone from the same menus. If you don't have an account, email us the recipe's title and the poster's handle, the commenter's handle and what the comment says, or the handle of whoever posted the plate and when.
 
 The Terms of Use set out the community rules, what blocking does, and how to send a copyright complaint. The Privacy Policy explains what Platerie collects and how to use your rights over it, such as getting a copy of your data.
 

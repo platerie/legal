@@ -2,7 +2,7 @@
 
 # Terms of Use
 
-*Effective November 10, 2026*
+*Effective November 21, 2026*
 
 Platerie is an app for sharing recipes and cooking them, run by the Platerie team ("we", "us"). These terms are the agreement between you and us for using it. By creating an account or using Platerie, you agree to them, including the community rules. If you don't agree, don't use Platerie.
 
@@ -22,24 +22,24 @@ Platerie is for personal use. You're welcome to share your own recipes if you co
 
 - Give accurate details when you sign up, and keep your password, or the Apple or Google account you sign in with, to yourself. You're responsible for what's done with your account, unless someone gets into it through no fault of yours.
 - An account is for one person. Don't share it, and don't sell or transfer it or its handle.
-- Your handle can't be changed once you've chosen it. Don't pick one that pretends to be someone else, a business or a brand, or that breaks the community rules. Handles that look like they speak for Platerie, such as "admin" or "support", aren't available.
+- You can change your handle in Edit profile, once every 30 days, and your old one is then free for anyone to take. Don't pick one that pretends to be someone else, a business or a brand, or that breaks the community rules. Handles that look like they speak for Platerie, such as "admin" or "support", aren't available.
 - We send codes and messages about your account and these terms to your account's email address, so keep it up to date. You can change it in Settings on your profile.
 - Tell us at [support@example.com](mailto:support@example.com) straight away if you think someone else is using your account.
 - You can delete your account at any time in the app, from Settings on your profile.
 
 ## 3. Your content
 
-You own what you post: your recipes, stories, photos, videos, comments and profile ("your content"). We don't claim ownership of it.
+You own what you post: your recipes, plates (photos or videos you share with your followers for 24 hours, called stories in earlier versions of the app), photos, videos, comments and profile ("your content"). We don't claim ownership of it.
 
 So that we can run Platerie, you give us a worldwide, non-exclusive, royalty-free licence to host, store, copy, adapt (for example, resize or reformat), publish, display and perform (for example, play your videos) your content, and to make it available to other people, in and through Platerie, as these terms describe. We can pass these rights on only to service providers that help us run Platerie, such as our hosting provider, and only for that. We won't sell your content or use it in advertising.
 
 You also let other people use your content through Platerie's features: view it, save it, cook from it, and share it with the Share button, which sends a recipe's text to other apps.
 
-The licence ends when you delete the content or your account, or when a story is deleted after two days. After that, we keep copies only in our storage provider's cache, for up to an hour; in backups, for up to 30 days; in photos or videos that couldn't be removed straight away, until we clear them out; in reports about the content, or about comments on it (and a reported story's photo or video, while the report is open); in ingredients other people have added from it to their own pantry or grocery list; and where the law requires it or we need them for a legal claim. The Privacy Policy gives more detail about these copies. We can't remove copies other people have already made, for example by sharing a recipe.
+The licence ends when you delete the content or your account, or when a plate is deleted after two days. After that, we keep copies only in our storage provider's cache, for up to an hour; in backups, for up to 30 days; in photos or videos that couldn't be removed straight away, until we clear them out; in reports about the content, or about comments on it (and a reported plate's photo or video, while the report is open); in ingredients other people have added from it to their own pantry or grocery list; and where the law requires it or we need them for a legal claim. The Privacy Policy gives more detail about these copies. We can't remove copies other people have already made, for example by sharing a recipe.
 
 Only post what you have the right to share. If a recipe comes from a cookbook, a website or another cook, credit them (there's a Source field for this), and don't copy their words, photos or videos without permission. A plain list of ingredients usually isn't protected by copyright, but the way a recipe is written, and its photos and videos, usually are.
 
-You're responsible for your content. Apart from the automatic checks described in "Moderation", we don't review it before it appears, but we act on content that breaks these terms. You can delete your own recipes and comments, and comments other people leave on your recipes, at any time, and your stories in their first 24 hours.
+You're responsible for your content. Apart from the automatic checks described in "Moderation", we don't review it before it appears, but we act on content that breaks these terms. You can delete your own recipes and comments, and comments other people leave on your recipes, at any time, and your plates in their first 24 hours.
 
 ## 4. Community rules: zero tolerance
 
@@ -76,13 +76,13 @@ Child safety: we don't tolerate anything that sexually exploits or endangers chi
 
 ## 5. Reporting and blocking
 
-If you see something that breaks these rules, report it: recipes, comments, stories and profiles each have a Report option in their menu, where you choose a reason and can add details. You can also email [support@example.com](mailto:support@example.com), including if you don't have an account.
+If you see something that breaks these rules, report it: recipes, comments, plates and profiles each have a Report option in their menu, where you choose a reason and can add details. You can also email [support@example.com](mailto:support@example.com), including if you don't have an account.
 
 We don't tell anyone who reported them, and that includes reports made in the app for intellectual property. The only exceptions are copyright notices and counter-notices sent to us by email, which we pass on as "Copyright complaints" describes, and when the law requires us to share a report.
 
-If you email us about something you think is illegal, tell us where it is (the recipe's title and the poster's handle, the commenter's handle and what the comment says, or the handle of whoever posted the story and when), why you think it's illegal, and your name and email address (you can leave those out if it's child sexual abuse material), and confirm that your report is accurate and complete as far as you know. We'll confirm we've received it, and tell you what we decided.
+If you email us about something you think is illegal, tell us where it is (the recipe's title and the poster's handle, the commenter's handle and what the comment says, or the handle of whoever posted the plate and when), why you think it's illegal, and your name and email address (you can leave those out if it's child sexual abuse material), and confirm that your report is accurate and complete as far as you know. We'll confirm we've received it, and tell you what we decided.
 
-You can block anyone from the same menus. Blocking works both ways: neither of you sees the other's recipes, stories or comments, and neither can follow the other or like, comment on or mark as made the other's recipes. Follows and follow requests between you end, the comments, likes and "Made it" marks either of you left on the other's recipes are deleted, and stories either of you posted lose their links to the other's recipes. Unblocking doesn't bring them back. You can still see each other's profiles. The other person isn't told.
+You can block anyone from the same menus. Blocking works both ways: neither of you sees the other's recipes, plates or comments, and neither can follow the other or like, comment on or mark as made the other's recipes. Follows and follow requests between you end, the comments, likes and "Made it" marks either of you left on the other's recipes are deleted, and plates either of you posted lose their links to the other's recipes. Unblocking doesn't bring them back. You can still see each other's profiles. The other person isn't told.
 
 You can unblock people in Settings on your profile, under Blocked accounts. Blocking only works within Platerie: someone could still see your public content from another account.
 
@@ -90,7 +90,7 @@ If someone is in immediate danger, contact the emergency services first.
 
 ## 6. Moderation
 
-Some checks are automatic. When you save a handle, name, bio, recipe, comment or story caption, it's checked against a list of blocked words and length limits, and handles against the handle rules. If it doesn't pass, it isn't saved, and you can change it and try again. These checks don't affect your account.
+Some checks are automatic. When you save a handle, name, bio, recipe, comment or plate caption, it's checked against a list of blocked words and length limits, and handles against the handle rules. If it doesn't pass, it isn't saved, and you can change it and try again. These checks don't affect your account.
 
 We aim to review every report within 24 hours, and a person looks at each one. When we decide that content breaks these terms, we remove it, or, if it's something you can fix, we may ask you to fix it instead. We terminate the account of anyone who posts objectionable content or abuses other people (see "Community rules"). We may also stop them from signing up again, and report them to the authorities when the law requires it or someone's safety is at risk.
 
@@ -118,7 +118,7 @@ If you think something on Platerie infringes your copyright, email our copyright
 
 - your name, postal address, phone number and email address
 - the work you say is infringed, for example the cookbook and page, or a link to your photo
-- where it is on Platerie: the recipe's title and the handle of the person who posted it, the handle of whoever posted the story and when, or a link to the photo or video
+- where it is on Platerie: the recipe's title and the handle of the person who posted it, the handle of whoever posted the plate and when, or a link to the photo or video
 - a statement that you believe in good faith that the use isn't authorised by you, your agent or the law
 - a statement that the information in your notice is accurate and, under penalty of perjury, that you're the copyright owner or authorised to act for them
 - your physical or electronic signature (typing your full name works)
@@ -145,7 +145,7 @@ Platerie is free. If we ever offer something you pay for, we'll tell you the pri
 
 The Platerie app, its name, logo and design belong to us or to the people we license them from. We give you a personal, non-exclusive, non-transferable permission to use the app under these terms. Don't copy, change, sell or redistribute it, or try to extract its source code, except as the law allows.
 
-Platerie includes open-source software, which is covered by its own licences. Some demo recipes show photos from Unsplash, under the Unsplash licence. Ingredient photos come from TheMealDB (<https://www.themealdb.com>). Product names and logos in them belong to their owners, who aren't connected with Platerie.
+Platerie includes open-source software, which is covered by its own licences. Some demo recipes show photos from Unsplash, under the Unsplash licence. Ingredient photos come from TheMealDB (<https://www.themealdb.com>), or from cooks who added them. Product names and logos in them belong to their owners, who aren't connected with Platerie.
 
 Links to other websites, such as a recipe's source, open outside Platerie. We're not responsible for those websites.
 
