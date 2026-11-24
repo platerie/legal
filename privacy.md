@@ -2,7 +2,7 @@
 
 # Privacy Policy
 
-*Effective November 21, 2026*
+*Effective November 24, 2026*
 
 This policy explains what personal data Platerie collects, how we use it, who can see it, and the choices and rights you have. It covers the Platerie app and the web pages for these documents.
 
@@ -57,7 +57,7 @@ Public means anyone can see it, including people who don't have a Platerie accou
 - your likes and "Made it" marks, and when you left them: anyone can look up which recipes you've liked or marked as made. In the app, recipes show how many they have, and their authors see who left them
 - who you follow and who follows you, and when, once a follow is accepted
 - ingredient photos you add, once we've approved them, even if your account is private, and which account added them
-- any collection you choose to show on your profile: its name, cover photo and the recipes in it, to signed-in people who can see your recipes (so, if your account is private, only your followers). Each recipe in it shows only to people who can see that recipe
+- any collection you choose to show on your profile: its name, cover photo and the recipes in it, and when you added them, to signed-in people who can see your recipes (so, if your account is private, only your followers). Each recipe in it shows only to people who can see that recipe
 
 The photos and videos in your recipes, your profile photo, your collections' cover photos and the ingredient photos you add (even before they're approved) can be opened by anyone who has their link, even outside Platerie. New accounts, and people who've posted recently, can be suggested to others under Cooks to follow.
 
@@ -238,7 +238,7 @@ If you're under 18, remember that your profile, and your comments, likes and "Ma
 
 ## 14. Cookies and data on your device
 
-The app doesn't use cookies. It keeps a few things in your device's storage (in a web browser, its local storage): your sign-in session, so you stay signed in; whether read-aloud is on in cooking mode; when you last looked at your activity, so it can show you when there's something new; which of the current plates you've watched, so the tray can show you new ones; a new recipe you've started writing (its words and choices, not its photos or videos), so you can pick it up again; that you've seen the screens a new account starts with, so they only show once; the cuisines you picked on them, so Discover's Popular this week can start with those; that you've hidden Cooks to follow on Discover, so it stays hidden; the addresses you've recently asked us to email, with when, so the app can wait out the once-a-minute limit; and the last sign-in link you opened, so it isn't used twice. They're only for those features, and they're never used to track you.
+The app doesn't use cookies. It keeps a few things in your device's storage (in a web browser, its local storage): your sign-in session, so you stay signed in (on a phone it's encrypted, with the key kept in the phone's secure keychain); whether read-aloud is on in cooking mode; when you last looked at your activity, so it can show you when there's something new; which of the current plates you've watched, so the tray can show you new ones; a new recipe you've started writing (its words and choices, not its photos or videos), so you can pick it up again; that you've seen the screens a new account starts with, so they only show once; the cuisines you picked on them, so Discover's Popular this week can start with those; which tips you've seen, or that you turned tips off, so each shows once; the units you chose for recipes; the passport stamps you've already been shown, so each new one is announced once; whether the grocery list shows estimated prices, and the store you picked for them; the pantry's Add again list, and whether it shows your food as tiles or a list; that you've hidden Cooks to follow on Discover, so it stays hidden; the addresses you've recently asked us to email, with when, so the app can wait out the once-a-minute limit; and the last sign-in link you opened, so it isn't used twice. They're only for those features, and they're never used to track you.
 
 Signing out removes your session. Publishing the recipe you've started, choosing Start over, or clearing what you've written and setting back any choices you changed removes its draft. Deleting your account in the app removes all of these from the device you do it on, apart from whether read-aloud is on, that you've hidden Cooks to follow, the addresses you've asked us to email and the last sign-in link you opened. On any other device you've used Platerie on, it only signs you out. The rest stays until you uninstall the app or clear its data. If your Android phone backs up app data to your Google account, this storage can be included in that backup and restored if you reinstall Platerie; we don't receive that backup. Your device also keeps a temporary cache of photos and videos you've viewed in Platerie, which it clears as needed.
 
