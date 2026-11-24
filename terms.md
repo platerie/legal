@@ -24,7 +24,7 @@ Platerie is for personal use. You're welcome to share your own recipes if you co
 - An account is for one person. Don't share it, and don't sell or transfer it or its handle.
 - You can change your handle in Edit profile, once every 30 days, and your old one is then free for anyone to take. Don't pick one that pretends to be someone else, a business or a brand, or that breaks the community rules. Handles that look like they speak for Platerie, such as "admin" or "support", aren't available.
 - We send codes and messages about your account and these terms to your account's email address, so keep it up to date. You can change it in Settings on your profile.
-- Tell us at [support@example.com](mailto:support@example.com) straight away if you think someone else is using your account.
+- Tell us at [support@platerie.app](mailto:support@platerie.app) straight away if you think someone else is using your account.
 - You can delete your account at any time in the app, from Settings on your profile.
 
 ## 3. Your content
@@ -62,7 +62,7 @@ Don't abuse Platerie or the people on it, either:
 
 - don't make accounts to get around a block, a suspension or a ban, or use several accounts to mislead people
 - don't use bots, scripts or other automated means to post, follow, like, comment or collect data from Platerie
-- don't try to get into other people's accounts or our systems, test our security without our permission, or get around Platerie's limits, filters or blocks (if you find a security problem, please tell us at [support@example.com](mailto:support@example.com))
+- don't try to get into other people's accounts or our systems, test our security without our permission, or get around Platerie's limits, filters or blocks (if you find a security problem, please tell us at [support@platerie.app](mailto:support@platerie.app))
 - don't overload or disrupt the service
 - don't make false or abusive reports
 
@@ -76,7 +76,7 @@ Child safety: we don't tolerate anything that sexually exploits or endangers chi
 
 ## 5. Reporting and blocking
 
-If you see something that breaks these rules, report it: recipes, comments, plates and profiles each have a Report option in their menu, where you choose a reason and can add details. You can also email [support@example.com](mailto:support@example.com), including if you don't have an account.
+If you see something that breaks these rules, report it: recipes, comments, plates and profiles each have a Report option in their menu, where you choose a reason and can add details. You can also email [support@platerie.app](mailto:support@platerie.app), including if you don't have an account.
 
 We don't tell anyone who reported them, and that includes reports made in the app for intellectual property. The only exceptions are copyright notices and counter-notices sent to us by email, which we pass on as "Copyright complaints" describes, and when the law requires us to share a report.
 
@@ -98,7 +98,7 @@ Without a report, and without warning, we can also remove content, or suspend or
 
 When we remove your content or suspend or terminate your account, we'll email you to say what we did and why, unless the law doesn't allow it or telling you would put someone at risk.
 
-If you think we've made a mistake, email [support@example.com](mailto:support@example.com) within six months of our decision. A person will look at it again and tell you what they decided, and if we got it wrong, we'll undo the decision where we can. This doesn't affect your right to go to court.
+If you think we've made a mistake, email [support@platerie.app](mailto:support@platerie.app) within six months of our decision. A person will look at it again and tell you what they decided, and if we got it wrong, we'll undo the decision where we can. This doesn't affect your right to go to court.
 
 ## 7. Recipes are for information
 
@@ -114,7 +114,7 @@ Recipes on Platerie are posted by its users, and they're for general information
 
 ## 8. Copyright complaints
 
-If you think something on Platerie infringes your copyright, email our copyright agent at [support@example.com](mailto:support@example.com) with "Copyright notice" in the subject, and include:
+If you think something on Platerie infringes your copyright, email our copyright agent at [support@platerie.app](mailto:support@platerie.app) with "Copyright notice" in the subject, and include:
 
 - your name, postal address, phone number and email address
 - the work you say is infringed, for example the cookbook and page, or a link to your photo
@@ -125,7 +125,7 @@ If you think something on Platerie infringes your copyright, email our copyright
 
 We'll remove the material, or block access to it, and tell the person who posted it. We'll give them a copy of your notice, including your name and contact details, so they can respond.
 
-If your content was removed because of a copyright notice and you think that's a mistake, you can send a counter-notice to [support@example.com](mailto:support@example.com) with "Counter-notice" in the subject. Include:
+If your content was removed because of a copyright notice and you think that's a mistake, you can send a counter-notice to [support@platerie.app](mailto:support@platerie.app) with "Counter-notice" in the subject. Include:
 
 - your name, postal address, phone number and email address
 - what was removed, and where it was before (for example, the recipe's title)
@@ -215,7 +215,7 @@ If you don't accept a change, you can delete your account before it takes effect
 
 ## 16. Disputes
 
-If you have a problem with Platerie, please email [support@example.com](mailto:support@example.com) first. Most things can be sorted out quickly that way.
+If you have a problem with Platerie, please email [support@platerie.app](mailto:support@platerie.app) first. Most things can be sorted out quickly that way.
 
 If you're a consumer, you keep the protection of the mandatory laws of the country, or US state, where you live, and nothing in these terms takes it away. If you live in the EU or the UK, you can also bring a claim in the courts where you live.
 
@@ -231,7 +231,7 @@ If you're a consumer, you keep the protection of the mandatory laws of the count
 
 ## 18. Contact
 
-Questions about these terms, something to report, or a legal notice? Email [support@example.com](mailto:support@example.com). Authorities can contact us there too. We answer in English.
+Questions about these terms, something to report, or a legal notice? Email [support@platerie.app](mailto:support@platerie.app). Authorities can contact us there too. We answer in English.
 
 ---
 

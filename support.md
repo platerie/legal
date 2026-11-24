@@ -2,13 +2,13 @@
 
 # Platerie support
 
-Platerie is an app for sharing and cooking recipes, run by the Platerie team. For help with Platerie or your account, a privacy request, or to report a recipe, plate (a photo or video someone shares with their followers for 24 hours, called a story in earlier versions of the app), comment or person, email [support@example.com](mailto:support@example.com). We aim to review reports within 24 hours.
+Platerie is an app for sharing and cooking recipes, run by the Platerie team. For help with Platerie or your account, a privacy request, or to report a recipe, plate (a photo or video someone shares with their followers for 24 hours, called a story in earlier versions of the app), comment or person, email [support@platerie.app](mailto:support@platerie.app). We aim to review reports within 24 hours.
 
 ## Deleting your account
 
 In the app: go to your profile, tap Settings (the gear) and choose Delete account, then Delete forever. It's permanent and can't be undone. If your account signs in with Apple, on an iPhone the app also ends Platerie's access to your Apple Account (Apple may ask you to confirm it's you). Otherwise, the app tells you how to end it yourself.
 
-Without the app: email [support@example.com](mailto:support@example.com) from the address your account uses and ask us to delete it. If you can't use that address, tell us your handle and we'll find another way to check the account is yours (we can't delete it if we can't). We'll delete it within one month, usually much sooner, and tell you when it's done. If your account signs in with Apple, also remove Platerie from Sign in with Apple yourself: on your iPhone, open Settings, tap your name, then Sign in with Apple, choose Platerie and tap Delete.
+Without the app: email [support@platerie.app](mailto:support@platerie.app) from the address your account uses and ask us to delete it. If you can't use that address, tell us your handle and we'll find another way to check the account is yours (we can't delete it if we can't). We'll delete it within one month, usually much sooner, and tell you when it's done. If your account signs in with Apple, also remove Platerie from Sign in with Apple yourself: on your iPhone, open Settings, tap your name, then Sign in with Apple, choose Platerie and tap Delete.
 
 What's deleted:
 
@@ -35,7 +35,7 @@ What's kept, and for how long:
 
 ## Deleting some of your data
 
-You don't have to delete your account to delete things. In the app you can delete any of your recipes and comments (and comments on your recipes), delete a plate in its first 24 hours, remove likes, "Made it" marks, saves and ratings, clear your pantry and collections, change your bio, your profile photo and your collections' cover photos, and unfollow people, remove followers or unblock people. To ask us to delete anything else, email [support@example.com](mailto:support@example.com).
+You don't have to delete your account to delete things. In the app you can delete any of your recipes and comments (and comments on your recipes), delete a plate in its first 24 hours, remove likes, "Made it" marks, saves and ratings, clear your pantry and collections, change your bio, your profile photo and your collections' cover photos, and unfollow people, remove followers or unblock people. To ask us to delete anything else, email [support@platerie.app](mailto:support@platerie.app).
 
 ## Reporting and blocking
 

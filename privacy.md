@@ -6,7 +6,7 @@
 
 This policy explains what personal data Platerie collects, how we use it, who can see it, and the choices and rights you have. It covers the Platerie app and the web pages for these documents.
 
-Platerie is run by the Platerie team ("we", "us"), who decide how your personal data is used. That makes us its "controller" under data protection laws such as the GDPR. You can reach us about anything in this policy at [support@example.com](mailto:support@example.com).
+Platerie is run by the Platerie team ("we", "us"), who decide how your personal data is used. That makes us its "controller" under data protection laws such as the GDPR. You can reach us about anything in this policy at [support@platerie.app](mailto:support@platerie.app).
 
 The short version: Platerie keeps what it needs to run your account and share your recipes and plates. Your profile and follows are public, and so are your comments, likes and "Made it" marks on public recipes. Your recipes are public too, unless your account is private. Your plates are shown only to your followers, for 24 hours. Your email address, saves, ratings, cooking history, pantry, blocks and reports are private, and so are your collections unless you choose to show one on your profile. There are no ads or analytics (apart from what Google's sign-in code collects if you use Continue with Google), we don't sell your data, and we don't track you. You can delete your account and nearly everything in it from the app.
 
@@ -150,7 +150,7 @@ Where the GDPR or the UK GDPR requires safeguards for this, we rely on the stand
 
 In the app: go to your profile, tap Settings (the gear) and choose Delete account, then Delete forever. It's permanent and can't be undone. If your account signs in with Apple, on an iPhone the app also ends Platerie's access to your Apple Account (Apple may ask you to confirm it's you). Otherwise, the app tells you how to end it yourself.
 
-Without the app: email [support@example.com](mailto:support@example.com) from the address your account uses and ask us to delete it. If you can't use that address, tell us your handle and we'll find another way to check the account is yours (we can't delete it if we can't). We'll delete it within one month, usually much sooner, and tell you when it's done. If your account signs in with Apple, also remove Platerie from Sign in with Apple yourself: on your iPhone, open Settings, tap your name, then Sign in with Apple, choose Platerie and tap Delete.
+Without the app: email [support@platerie.app](mailto:support@platerie.app) from the address your account uses and ask us to delete it. If you can't use that address, tell us your handle and we'll find another way to check the account is yours (we can't delete it if we can't). We'll delete it within one month, usually much sooner, and tell you when it's done. If your account signs in with Apple, also remove Platerie from Sign in with Apple yourself: on your iPhone, open Settings, tap your name, then Sign in with Apple, choose Platerie and tap Delete.
 
 What's deleted:
 
@@ -204,7 +204,7 @@ Depending on where you live (for example in the EU, the UK, California and other
 
 A copy of your data includes reports about you and your content, but not who made them, unless the law requires it, so that people can report safely.
 
-To use any of these rights, email [support@example.com](mailto:support@example.com) from the address your account uses. If you write from another address, we may ask you to confirm the account is yours. It's free. We'll answer within one month. If a request is complex, we may need longer where the law allows (up to two more months in the EU and the UK, or 45 more days in US states), and we'll tell you why within the first month.
+To use any of these rights, email [support@platerie.app](mailto:support@platerie.app) from the address your account uses. If you write from another address, we may ask you to confirm the account is yours. It's free. We'll answer within one month. If a request is complex, we may need longer where the law allows (up to two more months in the EU and the UK, or 45 more days in US states), and we'll tell you why within the first month.
 
 If you have a complaint about how we handle your data, email us: we'll confirm we've received it within 30 days and tell you what we're doing about it. You can also complain to a data protection authority: in the EU, the one where you live or work (they're listed at <https://www.edpb.europa.eu/about-edpb/about-edpb/members_en>), and in the UK, the Information Commissioner's Office (<https://ico.org.uk>).
 
@@ -224,7 +224,7 @@ We disclose these to the service providers in "Who else handles your data", for 
 
 You have the right to know what we collect, use and disclose, and to get a copy of it; to delete it; to correct it; to opt out of its sale or sharing, of targeted advertising and of profiling (we do none of these); to limit the use of sensitive personal information (we use it only as the law allows without that); and not to be discriminated against for using these rights. We won't refuse you service or treat you differently because you used them.
 
-To use them, email [support@example.com](mailto:support@example.com). We'll confirm we've received your request within 10 business days. We'll check the request comes from your account's email address, or ask for details only the account holder would have. You can use an authorised agent: they'll need your signed permission, and we may still ask you to confirm your identity with us directly. We'll answer within the times in "Your rights".
+To use them, email [support@platerie.app](mailto:support@platerie.app). We'll confirm we've received your request within 10 business days. We'll check the request comes from your account's email address, or ask for details only the account holder would have. You can use an authorised agent: they'll need your signed permission, and we may still ask you to confirm your identity with us directly. We'll answer within the times in "Your rights".
 
 If we turn down your request, you can appeal by replying to our answer with "Appeal". We'll answer within 45 days. If you're still not satisfied, you can contact your state's attorney general.
 
@@ -232,7 +232,7 @@ California's "Shine the Light" law: we don't share personal information with any
 
 ## 13. Children
 
-Platerie isn't for children under 13, or under the minimum age where they live if that's higher. We don't knowingly collect personal data from them. If we learn that a child under that age has an account, we delete it. If you think a child has an account, email [support@example.com](mailto:support@example.com).
+Platerie isn't for children under 13, or under the minimum age where they live if that's higher. We don't knowingly collect personal data from them. If we learn that a child under that age has an account, we delete it. If you think a child has an account, email [support@platerie.app](mailto:support@platerie.app).
 
 If you're under 18, remember that your profile, and your comments, likes and "Made it" marks on public recipes, are public, and so are your recipes unless your account is private. Your plates are seen only by your followers. Making your account private, under Account privacy in Settings, hides your recipes, and what people leave on them, from anyone who doesn't follow you, and new followers have to ask and be accepted. Anyone who already follows you keeps seeing your recipes and plates, so check your Followers list. Don't share where you live, where you go to school, or other details that could identify you.
 
@@ -252,7 +252,7 @@ We'll update this policy when Platerie changes what it collects or how it uses i
 
 ## 16. Contact
 
-Questions, requests or complaints about your privacy? Email [support@example.com](mailto:support@example.com).
+Questions, requests or complaints about your privacy? Email [support@platerie.app](mailto:support@platerie.app).
 
 ---
 
