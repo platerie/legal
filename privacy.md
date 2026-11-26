@@ -2,7 +2,7 @@
 
 # Privacy Policy
 
-*Effective November 24, 2026*
+*Effective November 26, 2026*
 
 This policy explains what personal data Platerie collects, how we use it, who can see it, and the choices and rights you have. It covers the Platerie app and the web pages for these documents.
 
@@ -95,13 +95,19 @@ Where we rely on legitimate interests, you can object (see "Your rights"). We do
 
 Supabase hosts Platerie's database, sign-in (Supabase Auth), storage for photos and videos, and service logs. It processes your data only to provide those services to us, under a data processing agreement. Its privacy policy is at <https://supabase.com/privacy>.
 
+GitHub keeps our backups of Platerie's database: a copy is made every night and kept for up to 30 days. Its privacy statement is at <https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement>.
+
+Cloudflare keeps our backups of the photos and videos stored in Platerie (apart from plates), in its R2 storage service: new ones are copied there every night, and once one is deleted from Platerie's storage, it's deleted from the backup within 30 days. Its privacy policy is at <https://www.cloudflare.com/privacypolicy/>.
+
 Account emails are sent by Supabase Auth through an email delivery service we use with it, which receives your email address and the message. Emails you send us, and our replies, are kept by the email service that hosts our mailbox.
 
 If you turn on notifications, they're sent through Expo's push notification service (<https://expo.dev/privacy>), which passes them to Apple or Google to deliver to your phone. They receive your phone's push token, what the notification says (who did what, the recipe's title and, for a comment, the start of it), and the IDs the app uses to open the right recipe or profile when you tap it.
 
+When you sign up, sign in with your email or reset your password, the app checks it's a person and not an automated script with Cloudflare Turnstile (<https://www.cloudflare.com/privacypolicy/>). Cloudflare receives your IP address and information about your device and browser for that check. Cloudflare also uses them to improve its bot detection, under its Turnstile privacy notice (<https://www.cloudflare.com/turnstile-privacy-policy/>).
+
 The web pages for these documents are hosted by a web hosting service, which receives the IP address and browser details of people who visit them.
 
-These providers may use their own service providers; Supabase, for example, runs on Amazon Web Services. Everyone who handles your data for us must keep it confidential and secure, use it only to provide their service to us, and protect it as this policy does.
+These providers may use their own service providers; Supabase, for example, runs on Amazon Web Services. Everyone who handles your data for us must keep it confidential and secure, use it only to provide their service to us (apart from Cloudflare's use for Turnstile, above), and protect it as this policy does.
 
 Apple and Google deliver the app and handle its downloads under their own privacy policies. They may give us statistics about downloads and, if you've allowed it in your phone's settings, crash reports. Platerie doesn't add analytics or crash reporting tools of its own.
 
@@ -127,7 +133,7 @@ So there's nothing to opt out of: Platerie works the same whether or not your br
 
 ## 6. Where your data is stored
 
-Platerie's database and files are stored with Supabase in the United States, in Amazon Web Services' East US (Ohio) region, and our providers may handle data in other countries where they work. If you're outside the US, your data goes to the US, which doesn't have the same data protection laws as the EU or the UK.
+Platerie's database and files are stored with Supabase in the United States, in Amazon Web Services' East US (Ohio) region. Cloudflare keeps the backups of photos and videos in North America, where we've asked it to. Our providers may handle data in other countries where they work. If you're outside the US, your data goes to the US, which doesn't have the same data protection laws as the EU or the UK.
 
 Where the GDPR or the UK GDPR requires safeguards for this, we rely on the standard contractual clauses in our data processing agreements with our providers, such as Supabase's. Email us for a copy.
 
@@ -143,7 +149,7 @@ Where the GDPR or the UK GDPR requires safeguards for this, we rely on the stand
 - If we terminate an account for breaking the rules, we may keep some of its details for up to five years, to stop it being used to sign up again: its account ID, email address and password (stored only as a hash), the ID of any Apple or Google account it signed in with, the handle, name and Terms of Use version it signed up with, when it signed up and last signed in, and a note of why we closed it.
 - Emails between you and us: up to two years after we've dealt with them.
 - Service logs, and the log of sign-ins and other account events: up to 90 days. Backups: up to 30 days.
-- On your device: your session until you sign out; a new recipe you've started, until you publish it, choose Start over, or clear what you've written and set back any choices you changed; and the rest until you uninstall the app or clear its data. Deleting your account in the app also removes them from the device you do it on, apart from whether read-aloud is on (see "Cookies and data on your device").
+- On your device: your session, and the push token if you turned on notifications, until you sign out; a new recipe you've started, until you publish it, choose Start over, or clear what you've written and set back any choices you changed; and the rest until you uninstall the app or clear its data. Deleting your account in the app also removes them from the device you do it on, apart from the few things named under "Cookies and data on your device".
 - We may keep something for longer if the law requires it, or while we need it for a legal claim or an investigation, for example into child sexual exploitation.
 
 ## 8. Deleting your account
@@ -168,7 +174,7 @@ What's kept, and for how long:
 - Reports other people made about you or your content stay too, with their copy of the reported comment's or recipe's text or of the reported plate's caption, but they're no longer linked to your account. So do reports about comments on your recipes, which keep a copy of your recipe's text.
 - We keep reports for up to two years after they're made, or longer if the law requires it or we need them for a legal claim.
 - If some photos or videos can't be removed when you delete your account, the app tells you, and we remove what's left within 30 days. If a report about one of your plates is still open, its photo or video is kept until we've dealt with the report, and removed within 30 days after that.
-- Copies can stay in our storage provider's cache for up to an hour, and in our hosting provider's backups for up to 30 days.
+- Copies can stay in our storage provider's cache for up to an hour, and in our backups for up to 30 days.
 - Records of sign-ins and other account events, which include your email address, IP address and, if you sign in with Google, the name on your Google account, are kept for up to 90 days and then deleted. So are service logs.
 - If we've closed your account for breaking the Terms of Use, we may keep some of its details for up to five years, to stop it being used to sign up again: its account ID, email address and password (stored only as a hash), the ID of any Apple or Google account it signed in with, the handle, name and Terms of Use version it signed up with, when it signed up and last signed in, and a note of why we closed it.
 - We keep emails you've sent us for up to two years after we've dealt with them, and anything else the law requires us to keep.
@@ -238,9 +244,9 @@ If you're under 18, remember that your profile, and your comments, likes and "Ma
 
 ## 14. Cookies and data on your device
 
-The app doesn't use cookies. It keeps a few things in your device's storage (in a web browser, its local storage): your sign-in session, so you stay signed in (on a phone it's encrypted, with the key kept in the phone's secure keychain); whether read-aloud is on in cooking mode; when you last looked at your activity, so it can show you when there's something new; which of the current plates you've watched, so the tray can show you new ones; a new recipe you've started writing (its words and choices, not its photos or videos), so you can pick it up again; that you've seen the screens a new account starts with, so they only show once; the cuisines you picked on them, so Discover's Popular this week can start with those; which tips you've seen, or that you turned tips off, so each shows once; the units you chose for recipes; the passport stamps you've already been shown, so each new one is announced once; whether the grocery list shows estimated prices, and the store you picked for them; the pantry's Add again list, and whether it shows your food as tiles or a list; that you've hidden Cooks to follow on Discover, so it stays hidden; the addresses you've recently asked us to email, with when, so the app can wait out the once-a-minute limit; and the last sign-in link you opened, so it isn't used twice. They're only for those features, and they're never used to track you.
+The app doesn't use cookies. It keeps a few things in your device's storage (in a web browser, its local storage): your sign-in session, so you stay signed in (on a phone it's encrypted, with the key kept in the phone's secure keychain); whether read-aloud is on in cooking mode; when you last looked at your activity, so it can show you when there's something new; if you turn on notifications, your phone's push token, so we can stop sending them when you sign out or turn them off; that the app has offered you notifications, so it only asks once; which of the current plates you've watched, so the tray can show you new ones; a new recipe you've started writing (its words and choices, not its photos or videos), so you can pick it up again; that you've seen the screens a new account starts with, so they only show once; the cuisines you picked on them, so Discover's Popular this week can start with those; which tips you've seen, or that you turned tips off, so each shows once; the units you chose for recipes; the passport stamps you've already been shown, so each new one is announced once; whether the grocery list shows estimated prices, and the store you picked for them; the pantry's Add again list, and whether it shows your food as tiles or a list; that you've hidden Cooks to follow on Discover, so it stays hidden; the addresses you've recently asked us to email, with when, so the app can wait out the once-a-minute limit; and the last sign-in link you opened, so it isn't used twice. They're only for those features, and they're never used to track you.
 
-Signing out removes your session. Publishing the recipe you've started, choosing Start over, or clearing what you've written and setting back any choices you changed removes its draft. Deleting your account in the app removes all of these from the device you do it on, apart from whether read-aloud is on, that you've hidden Cooks to follow, the addresses you've asked us to email and the last sign-in link you opened. On any other device you've used Platerie on, it only signs you out. The rest stays until you uninstall the app or clear its data. If your Android phone backs up app data to your Google account, this storage can be included in that backup and restored if you reinstall Platerie; we don't receive that backup. Your device also keeps a temporary cache of photos and videos you've viewed in Platerie, which it clears as needed.
+Signing out removes your session, and the push token once we've stopped sending to it. Publishing the recipe you've started, choosing Start over, or clearing what you've written and setting back any choices you changed removes its draft. Deleting your account in the app removes all of these from the device you do it on, apart from whether read-aloud is on, that you've hidden Cooks to follow, the addresses you've asked us to email and the last sign-in link you opened. On any other device you've used Platerie on, it only signs you out. The rest stays until you uninstall the app or clear its data. If your Android phone backs up app data to your Google account, this storage can be included in that backup and restored if you reinstall Platerie; we don't receive that backup. Your device also keeps a temporary cache of photos and videos you've viewed in Platerie, which it clears as needed.
 
 If you sign in with Apple and share your name, the app also keeps your first name on your device until it's saved with your account, usually straight away, and then removes it. Deleting your account removes it too.
 

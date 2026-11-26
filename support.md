@@ -26,7 +26,7 @@ What's kept, and for how long:
 - Reports other people made about you or your content stay too, with their copy of the reported comment's or recipe's text or of the reported plate's caption, but they're no longer linked to your account. So do reports about comments on your recipes, which keep a copy of your recipe's text.
 - We keep reports for up to two years after they're made, or longer if the law requires it or we need them for a legal claim.
 - If some photos or videos can't be removed when you delete your account, the app tells you, and we remove what's left within 30 days. If a report about one of your plates is still open, its photo or video is kept until we've dealt with the report, and removed within 30 days after that.
-- Copies can stay in our storage provider's cache for up to an hour, and in our hosting provider's backups for up to 30 days.
+- Copies can stay in our storage provider's cache for up to an hour, and in our backups for up to 30 days.
 - Records of sign-ins and other account events, which include your email address, IP address and, if you sign in with Google, the name on your Google account, are kept for up to 90 days and then deleted. So are service logs.
 - If we've closed your account for breaking the Terms of Use, we may keep some of its details for up to five years, to stop it being used to sign up again: its account ID, email address and password (stored only as a hash), the ID of any Apple or Google account it signed in with, the handle, name and Terms of Use version it signed up with, when it signed up and last signed in, and a note of why we closed it.
 - We keep emails you've sent us for up to two years after we've dealt with them, and anything else the law requires us to keep.

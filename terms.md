@@ -2,7 +2,7 @@
 
 # Terms of Use
 
-*Effective November 24, 2026*
+*Effective November 26, 2026*
 
 Platerie is an app for sharing recipes and cooking them, run by the Platerie team ("we", "us"). These terms are the agreement between you and us for using it. By creating an account or using Platerie, you agree to them, including the community rules. If you don't agree, don't use Platerie.
 
